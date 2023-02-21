@@ -27,7 +27,7 @@ Agradecemos por visitar nosso projeto. Este é um exemplo simples de como utiliz
 
 Neste projeto, utilizamos HTML, CSS e JavaScript para desenvolver uma página web intuitiva e de fácil utilização. A API de busca de CEP foi integrada ao nosso código para fornecer resultados precisos e atualizados.
 
-Agradecemos por testar e avaliar nosso projeto. Estamos sempre em busca de melhorias e sugestões para tornar nossa aplicação ainda mais eficiente e útil.
+Agradeço por testar e avaliar meu projeto. Estou sempre em busca de melhorias e sugestões para tornar minha aplicação ainda mais eficiente e útil.
 
 ## Veja Agora No link Abaixo como Ficou o Projeto Final
 
